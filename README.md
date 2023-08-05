@@ -26,7 +26,7 @@ Este é um projeto em desenvolvimento que visa criar um clone do Spotify usando 
 - Navegue até o diretório do projeto: cd spotify-clone-nextjs
 
 - Instale as dependências:  
-npm install
+ - npm install
 ### ou
 yarn install
 ### ou
