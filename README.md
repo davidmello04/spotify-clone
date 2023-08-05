@@ -21,7 +21,7 @@ Este é um projeto em desenvolvimento que visa criar um clone do Spotify usando 
 
 ## Configuração do Ambiente de Desenvolvimento
 
-- Clone este repositório: git clone https://github.com/SEU_USUARIO/spotify-clone-nextjs.git
+- Clone este repositório: git clone https://github.com/davidmello04/spotify-clone
 
 - Navegue até o diretório do projeto: cd spotify-clone-nextjs
 
