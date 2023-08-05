@@ -27,16 +27,16 @@ Este é um projeto em desenvolvimento que visa criar um clone do Spotify usando 
 
 - Instale as dependências:
 npm install
-# ou
+## ou
 yarn install
-# ou
+## ou
 pnpm install
 
 - Inicie o servidor de desenvolvimento:
 npm run dev
-# ou
+## ou
 yarn run dev
-# ou
+## ou
 pnpm run dev
 
 - Abra o navegador e acesse: http://localhost:3000
