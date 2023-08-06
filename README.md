@@ -1,5 +1,5 @@
 # spotify-clone
-
+a
 Este é um projeto em desenvolvimento que visa criar um clone do Spotify usando a estrutura do Next.js. O objetivo principal é recriar uma interface semelhante à do Spotify, permitindo o login e pagamento para acesso.
 
 
